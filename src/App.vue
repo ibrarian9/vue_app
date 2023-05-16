@@ -28,13 +28,11 @@
 <script>
 import { ref } from "vue";
 import axios from "axios";
-import Navbar from "../src/components/NavBar.vue";
+import NavBar from "../src/components/NavBar.vue";
 
 export default {
   components: {
-    Navbar,
-    axios,
-    ref,
+    NavBar,
   },
 };
 </script>
