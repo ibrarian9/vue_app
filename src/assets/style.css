@@ -1,0 +1,17 @@
+* {
+    font-family: 'Quicksand', sans-serif;;
+}
+.ayat {
+    font-family: 'Amiri', serif;
+}
+@font-face {
+    font-family: 'Uthmani hafs';
+    src: url(./font/UthmanicHafs1-Ver17.ttf)
+    format("truetype");
+}
+.nomorAyat {
+    font-family: 'Uthmani hafs';
+}
+.artiAyat {
+    
+}
